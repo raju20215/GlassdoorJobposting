@@ -107,8 +107,8 @@ This EDA project provides a holistic overview of job market trends. It helps:
 ## 📬 Contact
 
 **Uppu Palakonda Raju**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 [palakondarajuuppu@gmail.com.com]  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/raju20215)
 
 ---
 
