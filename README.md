@@ -108,10 +108,6 @@ This EDA project provides a holistic overview of job market trends. It helps:
 
 **Uppu Palakonda Raju**  
 📧 [palakondarajuuppu@gmail.com.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/raju20215)
+🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/palakondaraju-uppu-raju20215/)) | [GitHub](https://github.com/raju20215)
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
