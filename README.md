@@ -49,17 +49,32 @@ This project aims to bridge the information gap by transforming raw job posting 
 *   Major recruiters include **Optum**, **DAZN**, and **BP Energy**.
 *   *Insight:* Large MNCs dominate the hiring volume for entry-to-mid-level tech roles.
 
+![Top Companies](images/top_companies.png)
+
 ### 2. 📍 Tech Hub Dominance
 *   **Bengaluru** and **Hyderabad** account for the vast majority of job postings.
 *   *Insight:* Relocation to these hubs significantly increases job prospects for tech professionals.
+
+![Top Locations](images/top_locations.png)
 
 ### 3. 🛠️ Skill Combinations
 *   **SQL + Power BI + Excel** is the "Holy Trinity" for Data Analyst roles.
 *   *Insight:* Technical skills alone aren't enough; visualization and data manipulation are non-negotiable.
 
+![Top Skills](images/top_skills.png)
+
 ### 4. 💰 Salary Trends
 *   The median salary range for tracked roles falls between **₹5L – ₹10L PA**.
 *   Higher company ratings (>4.0) correlate positively with better compensation packages.
+
+![Salary Distribution](images/salary_distribution.png)
+![Ratings vs Salary](images/company_ratings_vs_salary.png)
+
+### 5. 📈 Additional Market Trends
+*   **Job Posting Activity:**
+    ![Job Trends](images/job_trends.png)
+*   **Application Methods:**
+    ![Apply Type](images/apply_type_distribution.png)
 
 ---
 
